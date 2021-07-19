@@ -1,0 +1,12 @@
+{
+    "id": 12345,
+    "username": "Michael",
+    "postRecipes": [
+    ],
+    "purchasedRecipes": [
+    ],
+    "sellTransaction": [
+    ],
+    "cookingCoin": 1611,
+    "buyTransaction": []
+}
